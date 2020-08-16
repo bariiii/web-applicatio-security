@@ -9,6 +9,10 @@ SY SAVANE IDRISS 1535455
 
 ## Title:Food delivery web application 
 
+<img src="/security screenshot/scr3.JPG">
+<img src="/security screenshot/scr4.JPG">
+
+
 ## introduction: this application provides a food delivery system that requires users to register and sign up to use the system. 
 
 ## objective: is to develop a secure network between users and system admin by providing a secure web application enviroments. 
@@ -21,6 +25,9 @@ SY SAVANE IDRISS 1535455
 
 users are asked to input the correct data type for each data entry from user such as password and emails.
 messages will alert user to enter the correct data in the right text input whenever an error happens.
+
+<img src="/security screenshot/scr1.JPG">
+<img src="/security screenshot/scr2.JPG">
 
 ### Authentication
 <img src="/security screenshot/authin.JPG">
