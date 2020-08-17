@@ -64,13 +64,12 @@ messages will alert user to enter the correct data in the right text input whene
 ### Database Security Principles
 #### SQL injection usually occurs when you ask a user for input, like their username/userid, and instead of a name/id, the user gives you an SQL statement that you will unknowingly run on your database.To protect a web site from SQL injection, we implemented SQL parameters.
 
-#### unfortunately we could not manage to connect the database to our project so we implemented only the code without testing it.
-
+#### 
 <img src="/security screenshot/sql.JPG">
 
 ### File Security Principles
 
-
+#### The security principle is our localhost or our server tag that authenticate the accessibility of our network and also the java code include in our source package in which we included the security principle in our project into class and interface java with the Serializable interface, a name string, a getName() method that returns this string, and other support methods such as hashCode() , toString() , and equals(). The Files are customerDAO.java , customerDAOimpl.java , MyProvider.java , MyConnectionProvider.java
 
 
 
